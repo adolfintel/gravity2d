@@ -8,7 +8,7 @@ An N-Point Gravity Simulator is a realistic simulation in which all points attra
 Can be reused as a library for making games. 
 
 ## Usage
-If you just want to play around with the simulator, you can download it from [here](http://adolfintel.com/?p=gravity2d/index.frag). It requires [Java](http://java.com) to run.
+If you just want to play around with the simulator, you can download it from [here](http://fdossena.com/?p=gravity2d/index.frag). It requires [Java](http://java.com) to run.
 
 If you want to use it as a library or tinker with the code, download the project and import it into Netbeans.
 
@@ -16,8 +16,8 @@ If you want to use it as a library or tinker with the code, download the project
 Multiplaform, Java SE 7
 
 ## Screenshots
-![Screenshot](http://adolfintel.com/gravity2d/pc1.png)
-![Screenshot](http://adolfintel.com/gravity2d/pc2.png)
+![Screenshot](http://fdossena.com/gravity2d/pc1.png)
+![Screenshot](http://fdossena.com/gravity2d/pc2.png)
 
 ## License
 Copyright (C) 2015 Federico Dossena
